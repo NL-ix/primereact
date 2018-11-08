@@ -1,3 +1,5 @@
+Love the Datatable implementation, hate the way the styling is implemented, but we can change that
+
 [![Join the chat at https://gitter.im/primefaces/primereact](https://badges.gitter.im/primefaces/primereact.svg)](https://gitter.im/primefaces/primereact?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # PrimeReact
